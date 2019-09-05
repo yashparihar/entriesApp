@@ -1,0 +1,10 @@
+.rfe-form__row label {
+    min-width: 150px;
+    display: inline-block;
+  }
+
+  .MuiPaper-root {
+    width: 65%;
+    margin: auto;
+  }
+  

@@ -23,6 +23,12 @@
   color: #61dafb;
 }
 
+.containerele {
+  background-image: linear-gradient(to right bottom, #6ec485, #66b77e, #5fab78, #589e71, #51926a);
+}
+.col {
+  height: 100vh;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -31,3 +37,6 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* background-image: linear-gradient(to left bottom, #c6bdad, #a9a78a, #83946d, #558259, #076f4f); */
